@@ -2,7 +2,8 @@
 - 👀 I’m interested in tech that solves world problems (outdoors/health).
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on smart things. 
-- 📫 How to reach me find me @ trekko.app. 
+- 🔍 How to find me: wwww.trekko.app.
+- 📫 How to reach me: brandon@trekko.app
 
 <!---
 brandoluong/brandoluong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
