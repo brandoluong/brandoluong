@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brandoluong!
+- 👋 Hey, thanks for stopping by, I’m @brandoluong!
 - 👀 I’m interested in any tech related to health or outdoors.
 - 🌱 I’m currently learning javascript.
 - 👨‍⚕️ I've earned a doctorate in pharmacy. 
