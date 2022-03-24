@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @brandoluong!
 - 👀 I’m interested in any tech related to health or outdoors.
 - 🌱 I’m currently learning javascript.
+- 👨‍⚕️ I've earned a doctorate in pharmacy. 
 - 🤝 I’m looking to collaborate on smart things. 
 - 🔍 How to find me: wwww.trekko.app
 - 📫 How to reach me: brandon@trekko.app
