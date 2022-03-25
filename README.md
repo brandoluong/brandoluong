@@ -1,6 +1,6 @@
 - 👋 Hey, thanks for stopping by, I’m @brandoluong!
 - 👀 I’m interested in any tech related to health or outdoors.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript & html.
 - 👨‍⚕️ I've earned a doctorate in pharmacy. 
 - 🤝 I’m looking to collaborate on smart things. 
 - 📫 How to reach me: brandon@trekko.app
